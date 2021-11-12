@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Manager README"
+categories: leadership
+---
+
 ## "Allow me to re-introduce myself" - A Manager README
 
 My name is Young and I look forward to getting to know you! In the meantime, here's a bit about myself – some principles I follow, how I like to work and what you can expect from me. Hopefully these few bits can help break the ice and accelerate the build towards a solid working relationship.
