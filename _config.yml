@@ -1,3 +1,9 @@
 theme: minima
 title: y0ungk
 show_excerpts: true
+
+minima:
+  social_links:
+    twitter: y0ungk
+    linkedin: young4k
+    
