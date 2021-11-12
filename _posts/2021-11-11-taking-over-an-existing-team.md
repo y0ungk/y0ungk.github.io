@@ -14,9 +14,11 @@ I’ve stepped into leading existing teams several times – including when I fi
 **Clarified the team’s direction:** After spending time with users, stakeholders, and partner teams, I eventually had to set a new direction for the team. We were doing way too much and not focusing on the right areas. Despite the trust my quick actions earned, I spent even more time explaining the reasoning behind the decisions and kept my door open to listen to any feedback. It took many iterations but I made sure the team was part of the decision-making to be bought in and ready to move forward.
 
 Trust is earned not given. Take the time to get to know folks and to let them get to know you. This allowed the team to get candid about the type of work that inspires them and enabled me to chart a new direction successfully. Being able to deliver on that quickly also earned trust with leadership and led to more responsibilities. Here are some principles to remember,
+
 **Do:**
 - Be an active listener – go talk with team members, leadership and stakeholders to get a whole picture of what’s going well and what can be improved. 
 - Look for roadblocks or grievances you can fix quickly – it will earn you capital and inspire the team.
+
 **Don’t:** 
 - Jump into trying to fix “all of the problems” without building relationships with the team. 
 - Assume that your new team understands how you work – take the time to explain expectations and what you stand for.
