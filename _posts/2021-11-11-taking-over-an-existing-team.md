@@ -24,4 +24,4 @@ Trust is earned not given. Take the time to get to know folks and to let them ge
 - Assume that your new team understands how you work – take the time to explain expectations and what you stand for. Sharing a manager [readme][manager-readme] can be a good way to get a head start.
 - Be afraid to spend more time with the team early on – you can always pull back when the team is working well. You may not want to “get in the way” if the team is busy executing but taking the time to talk early on will build more trust and save miscommunications later.
 
-[manager-readme]: /manager/readme.html
+[manager-readme]: /manager/README.html
