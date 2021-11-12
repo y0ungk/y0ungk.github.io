@@ -1,16 +1,18 @@
 ---
-layout: post
+layout: page
 title: "Manager README"
 categories: leadership
 ---
 
-## "Allow me to re-introduce myself" - A Manager README
+### *"Allow me to re-introduce myself"*
 
 My name is Young and I look forward to getting to know you! In the meantime, here's a bit about myself – some principles I follow, how I like to work and what you can expect from me. Hopefully these few bits can help break the ice and accelerate the build towards a solid working relationship.
 
 TL;DR: I am here to make sure our team is successful – That we are working on what is most important to help our customers, improve our product, grow our business and having fun while we do it. My job is to create clarity for the team and empower you in this regard.
 
-## "I got you stuck off the realness" – First Principles
+### *"I got you stuck off the realness"*
+
+Here are some first principles for how I like to approach things.
 
 **Journey over destination.** Goals are important but life is short. Let's make sure we have fun and treat each other with kindness along the way. I also recognize that we're all in a journey of self discovery and learning how to become the best version of ourselves – myself included. We all have bad days – Let's be compassionate to yourself and others.
 
@@ -22,7 +24,9 @@ TL;DR: I am here to make sure our team is successful – That we are working on 
 
 **Validate assumptions.** Opinions need to be backed by data. I have a strong bias for action so let's take a hypothesis to try to validate it in a measurable way. Learning means we don't repeat mistakes - Let's make new mistakes. It's only a failure if we didn't learn something from it.
 
-## "You say one for the treble, two for the bass" – Work Cadence
+### *"You say one for the treble, two for the bass"*
+
+Having a cadence for work, helps us plan our time together. I value autonomy and want our time together to be effective and impactful.
 
 **Meetings are useless** without a clear purpose/agenda. Any meeting with more than two people (not 1:1's) should have a clear purpose to either make a decision or to discuss a plan for decisions also known as brainstorm. An effective meeting will have an owner that drives some outcome by sharing the agenda upfront, with any relevant pre-reads and end with clear next steps. If any of those are missing, then email or ping on chat.
 
@@ -32,7 +36,9 @@ We'll also have a weekly staff meeting with your peers for 60m. There will be an
 
 **Asynchronous communications** are preferred. Status should be tracked in written format so meetings can be focused on decision making. I'm very responsive on email and chat. Expect response SLAs to be in the order of magnitude of days for email and hours for chat. I'm usually way under those SLAs. If an under hour response is needed (aka there's a fire) – call or text. Please note I don't expect these SLAs from others especially after normal business hours or weekends. 
 
-## "Things fall apart, intentions shatter" – Setting Expectations
+### *"Things fall apart, intentions shatter"* 
+
+Setting Expectations. I'm still a work in progress.
 
 **I am an introvert** and that means being around large groups, for long periods of time, is exhausting for me. I will need alone time to recharge. In smaller groups, I tend to be ambiverted – More introverted around extroverts and more extroverted around introverts. As a typical introvert, I prefer deeper connections with fewer individuals.
 
@@ -44,7 +50,9 @@ We'll also have a weekly staff meeting with your peers for 60m. There will be an
 
 **Entitlement** is a trigger for me. I react negatively to people who think they are better than others and think they deserve something without working for it. I can't help you if you have a victim mentality – I'm all for therapy sessions but constant complaining about something without doing something irritates me to no end. 
 
-## "This is how we chill from '93 til" – Fun Bits
+### *"This is how we chill from '93 til"* 
+
+Some fun bits about me.
 
 **어려서부터 우리 집은 가난했었고** I'm an immigrant from South Korea. We didn't have much growing up. My parents ran a restaurant - where I often spent time working in the summers and after school. I had to work to put myself through college. I believe in working hard for what you want, no matter the odds. I always remember where I'm from and don't take anything for granted.
 
