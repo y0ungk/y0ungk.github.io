@@ -2,6 +2,9 @@ theme: minima
 title: y0ungk
 show_excerpts: true
 
+header_pages:
+  - about.md
+
 minima:
   social_links:
     twitter: _y0ungk
