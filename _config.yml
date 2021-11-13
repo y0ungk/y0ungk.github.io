@@ -1,5 +1,6 @@
 theme: minima
-title: y0ungk
+title: parity check
+description: a blog on software engineering and other random bits 
 show_excerpts: true
 
 header_pages:
