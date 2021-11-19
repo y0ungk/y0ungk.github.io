@@ -1,0 +1,18 @@
+---
+layout: post
+title: "Learning from failure"
+categories: planning, retrospective
+---
+I once joined a team, at an early stage startup, in the middle of a big ramp - developing new features and racing toward critical deadlines. Our sales cycle was seasonal and in only a few weeks after I joined, we were expecting a fairly large traffic bump and were planning to onboard a lot of new customers, but the team had done some projections and felt well prepared. As soon as I joined, I reviewed the projections, capacity planning that was done and felt there was enough headroom for the expected growth.
+
+Ahead of the expected traffic growth, we started to see troubling patterns during peak traffic times. Intermittent reports of site slow downs began to increase. Error rates due to timeouts became more frequent. It began to be clear that we were hitting performance bottlenecks in the system. Immediately we started a warroom to evaluate root causes and next steps.
+
+While these signals were concerning, there was confidence that we had time. We quickly pointed to the database server as the performance bottleneck and quickly devised a plan to mitigate through a series of query tuning, caching and data archiving. Upgrading the db server hardware was also considered but given that we were able to ship some quick patches to increase our headroom, we felt we had time to mitigate further. Given the situation, we presented the mitigation plan to the CEO and felt confident, “Give us a week, and we will handle this.”
+
+The next day, the database crashed. The entire site went down, and we spent the entire day firefighting - turning off certain features to keep the site up. Furthermore, Murphy’s law proved itself once again; I was at the dentist and had to work remotely. Coordinating people on different teams remotely, from Sales to Customer Success, was tremendously difficult. Eventually, we got through that day. 
+
+That night, we upgraded the database instance which got us through the rest of the year. I wish we had made that call the night before. I held off because I felt we had more time and wanted to keep our operational costs down - being a startup, we were very conscious of our burn rate.
+
+Once we were in the clear, we had one of the most uncomfortable post-mortems I've ever had. Emotions were running high, folks were pointing fingers, others were taking the blame entirely, and the overall tone of the conversation was rather stressful. It took a lot of time to bring the temperature down so we could evaluate objectively on what went wrong and what we needed to do better. The key insight we got was in our capacity planning, we modeled traffic growth without considering data growth. From that it was clear we needed to invest more into site reliability and have engineers dedicated to that. We started hiring for that immediately and prioritizing bandwidth from the current team. We also developed an incident response plan to better handle the communications with our sales and customer success teams. We developed a good plan to prevent this from happening again. 
+
+But it was one of those moments. The failure came up as an inevitable consequence of being overly confident and not grasping the potential severity of the situation. But that's easy to say in hindsight. At that moment, “we didn’t know what we didn’t know.” We looked at the data and drew the wrong conclusions. For me personally, it was a massive, visible, and critical failure. But I had to move past. That was a prerequisite to understanding what went wrong and how I could ensure that it won’t happen ever again. Not learning from the mistake would be the true failure.
