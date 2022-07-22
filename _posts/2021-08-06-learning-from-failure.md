@@ -3,7 +3,7 @@ layout: post
 title: "Learning from failure"
 categories: planning, retrospective
 ---
-I once joined a team, at an early stage startup, in the middle of a big ramp - developing new features and racing toward critical deadlines. Our sales cycle was seasonal and in only a few weeks after I joined, we were expecting a fairly large traffic bump and were planning to onboard a lot of new customers, but the team had done some projections and felt well prepared. As soon as I joined, I reviewed the projections, capacity planning that was done and felt there was enough headroom for the expected growth.
+I once joined a team, at an early stage startup, in the middle of a big ramp - developing new features and racing toward critical deadlines. Our sales cycle was seasonal and in only a few weeks after I joined, we were expecting a fairly large traffic bump and were planning to onboard a lot of new customers, but the team had done some projections and felt well prepared. As soon as I joined, I reviewed the projections, capacity planning that was done and felt there was enough headroom for the expected growth...
 
 Ahead of the expected traffic growth, we started to see troubling patterns during peak traffic times. Intermittent reports of site slow downs began to increase. Error rates due to timeouts became more frequent. It began to be clear that we were hitting performance bottlenecks in the system. Immediately we started a warroom to evaluate root causes and next steps.
 
