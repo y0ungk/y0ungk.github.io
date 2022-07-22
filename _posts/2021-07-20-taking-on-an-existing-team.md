@@ -3,7 +3,7 @@ layout: post
 title: "Taking on an existing team"
 categories: leadership, teambuilding
 ---
-I’ve stepped into leading existing teams several times – both in a re-org and when joining a new company. Seeing a newcomer, especially from outside of the company, can create anxiety in the team around the leadership change. Let’s look at how to build trust with the team quickly and get started on the right foot without causing disruptions.
+I’ve stepped into leading existing teams several times – both in a re-org and when joining a new company. Seeing a newcomer, especially from outside of the company, can create anxiety in the team around the leadership change. Let’s look at how to build trust with the team quickly and get started on the right foot without causing disruptions...
 
 **Managing change expectations:** First day in, set expectations with leadership and the team to maintain the status quo while getting acclimated and start building trust. Learn existing team norms and take on regular manager duties such as standups, scrum planning, and 1:1’s. If you are lucky, there won't be any pressing fires so you could pace yourself. If you are new to the company, there will be a lot to learn. If not, you'll need to ramp quickly and start putting out fires from the get-go.
 
